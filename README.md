@@ -411,5 +411,5 @@ Brief guide to setup your own apache server with php and mysql. There are plenty
 
 ## Common Information
 - Read the CODE of Conduct before you edit: [Code of Conduct](https://github.com/suxSx/trawo/blob/master/CODE_OF_CONDUCT.md)<br />
-- We use MIT License: [MIT](https://github.com/trawo/opensource-tracker/blob/master/LICENSE.md)
+- We use MIT License: [MIT](https://github.com/suxsx/trawo/blob/master/LICENSE.md)
 - For more projects and contact visit our [homepage](https://knoph.cc)
