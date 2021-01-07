@@ -410,6 +410,6 @@ Brief guide to setup your own apache server with php and mysql. There are plenty
     - [LAMP-Server](https://howtoraspberrypi.com/how-to-install-web-server-raspberry-pi-lamp/)
 
 ## Common Information
-- Read the CODE of Conduct before you edit: [Code of Conduct](https://github.com/suxSx/trawo/blob/master/CODE_OF_CONDUCT.md)<br />
-- We use MIT License: [MIT](https://github.com/suxsx/trawo/blob/master/LICENSE.md)
+- Read the CODE of Conduct before you edit: [Code of Conduct](https://github.com/suxSx/TRAWO/blob/main/CODE_OF_CONDUCT.md)<br />
+- We use MIT License: [MIT](https://github.com/suxSx/TRAWO/blob/main/LICENSE.md)
 - For more projects and contact visit our [homepage](https://knoph.cc)
